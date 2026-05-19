@@ -1,0 +1,23 @@
+A structured threat assessment of university academic and administrative 
+systems using STRIDE, MITRE ATT&CK, and NIST SP 800-30 methodology.
+
+## Key Facts
+- 15 threats identified (5 Critical, 8 High, 2 Medium)
+- Framework: STRIDE + MITRE ATT&CK + NIST SP 800-30
+- Risk Method: Likelihood × Impact Matrix (5×5)
+
+## Assets Assessed
+- Student Information System (SIS)
+- Learning Management System (LMS)
+- Administrative Database
+- Campus WiFi Infrastructure
+- VPN Gateway & Admin Console
+
+## Top Threats
+- Unauthorized Remote Access (No MFA/VPN)
+- SQL Injection on Student Portal
+- Insider Threat — Data Exfiltration
+- Ransomware via Phishing Email
+- DDoS on Online Exam Platform
+
+> All scenarios are hypothetical, created for academic purposes.
